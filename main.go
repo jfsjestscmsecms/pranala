@@ -2,7 +2,7 @@ package main
 
 /*
 please uncomment one of each line to do test.
-thanks a lot for chance that have been given to me to follow this recruitment process
+thanks a lot for chance that has been given to me to follow this recruitment process
 */
 
 import (
